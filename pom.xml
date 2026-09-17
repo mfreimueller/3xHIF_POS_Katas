@@ -23,6 +23,19 @@
         <module>01_Bonus/Flexible_Constructor_Bodies</module>
         <module>01_Bonus/Modern_String_Files_Collection_APIs</module>
         <module>01_Bonus/Compact_Source_Files</module>
+        <module>01a_Constants_Enum</module>
+        <module>01a_Constants_Enum/Constants</module>
+        <module>01a_Constants_Enum/Constants/Fix_Constant_Interface_Antipattern</module>
+        <module>01a_Constants_Enum/Constants/Extract_Magic_Numbers</module>
+        <module>01a_Constants_Enum/Enum</module>
+        <module>01a_Constants_Enum/Enum/Refactor_Status_Codes_To_Enum</module>
+        <module>01a_Constants_Enum/Enum/Add_Per_Constant_Behavior</module>
+        <module>01b_Singleton</module>
+        <module>01b_Singleton/Fix_Broken_Singleton</module>
+        <module>01b_Singleton/Design_Enum_Registry_Singleton</module>
+        <module>01c_FactoryMethod</module>
+        <module>01c_FactoryMethod/Refactor_To_Static_Factory</module>
+        <module>01c_FactoryMethod/Design_Notification_Factory</module>
     </modules>
 
     <properties>
