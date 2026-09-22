@@ -1,5 +1,0 @@
-PaymentProcessor$PaymentMethod.class
-PaymentProcessor$CreditCard.class
-PaymentProcessor.class
-PaymentProcessor$PayPal.class
-PaymentProcessor$BankTransfer.class

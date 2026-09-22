@@ -25,3 +25,12 @@ replay_pid*
 
 # Mac-specific
 **/.DS_Store
+
+# Maven build output
+**/target/
+
+# IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+**/*.iml
