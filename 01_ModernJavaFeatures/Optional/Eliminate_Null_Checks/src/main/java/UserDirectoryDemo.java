@@ -1,6 +1,5 @@
-public class UserDirectoryDemo {
 
-    public static void main(String[] args) {
+    void main(String[] args) {
         UserDirectory directory = new UserDirectory();
 
         String email = directory.findEmailByUsername("ajohnson");
@@ -25,4 +24,3 @@ public class UserDirectoryDemo {
         }
         System.out.println("Required email: " + requiredEmail);
     }
-}
